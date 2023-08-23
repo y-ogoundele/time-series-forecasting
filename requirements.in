@@ -1,0 +1,14 @@
+matplotlib
+pandas
+numpy
+seaborn
+plotly
+jupyterlab>=3
+statsmodels
+scipy
+scikit-learn
+ipywidgets>=7.6
+scikit-learn
+pmdarima
+darts
+scipy
